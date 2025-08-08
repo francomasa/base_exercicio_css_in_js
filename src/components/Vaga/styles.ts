@@ -37,6 +37,7 @@ export const LinkVaga = styled.a`
   font-size: 14px;
   border-radius: 8px;
   text-align: center;
+  cursor: pointer;
 
   @media (max-width: 768px) {
     display: block;
