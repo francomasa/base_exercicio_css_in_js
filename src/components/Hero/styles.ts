@@ -20,8 +20,7 @@ export const HeroContainer = styled.div`
   opacity: 0.7;
 
   @media (max-width: 768px) {
-    height: auto;
-    padding: 24px 0;
+    height: 100%;
   }
 `
 
